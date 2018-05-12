@@ -1,0 +1,33 @@
+_repo: Gilbert-Keith-Chesterton_18707
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ward, Maisie
+    birthdate: 1889
+    deathdate: 1975
+    gutenberg_agent_id: '8198'
+    url: http://www.gutenberg.org/2009/agents/8198
+description: Maisie Ward's biography of Gilbert Keith Chesterton has long been a cornerstone
+  in Chesterton studies, as well as in the publishing house she and her husband, Frank
+  Sheed, founded in 1926. Originally published in 1942, just six years after Chesterton's
+  untimely death, this book combines Ward's unique perspective as the author's friend
+  and publisher with an examination of his personal correspondence and interviews
+  with his closest friends and family. Here are Chesterton's childhood and school
+  days, the friendship and foolery of youth, his early theological development, high
+  spirited love letter.
+gutenberg_issued: '2006-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chesterton, G. K. (Gilbert Keith), 1874-1936'
+- !lcc 'PR'
+title: Gilbert Keith Chesterton
+url: http://www.gutenberg.org/ebooks/18707
